@@ -96,3 +96,51 @@ nav {
     width: 801px;
     height: 670px;
 }
+
+.text-info1 {
+    text-align: center;
+    color: #DC780B;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 3.2px;
+    text-transform: uppercase;
+}
+
+.text-info2 {
+    text-align: center;
+    color: #150C01;
+    font-family: Philosopher;
+    font-size: 31.25px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.passion-text {
+    color: #150C01;
+    font-family: Philosopher;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.money {
+    color: #150C01;
+    /* text-align: center; */
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+.passion {
+    width: 1120px;
+    height: 400px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 70px;
+}
+.pas {
+    width: 280px;
+    height: 228px;
+}
