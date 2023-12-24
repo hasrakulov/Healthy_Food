@@ -125,12 +125,12 @@ nav {
 
 .money {
     color: #150C01;
-    /* text-align: center; */
     font-family: Roboto;
     font-size: 19px;
     font-weight: 400;
     opacity: 0.7;
 }
+
 .passion {
     width: 1120px;
     height: 400px;
@@ -140,7 +140,97 @@ nav {
     margin: auto;
     margin-top: 70px;
 }
+
 .pas {
     width: 280px;
     height: 228px;
+}
+
+.main_food {
+    border-radius: 35px;
+
+}
+
+.main-left {
+    margin-left: -80px;
+}
+
+.main_start {
+    width: 1120px;
+    height: 500px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-right {
+    width: 475px;
+    height: 315px;
+}
+
+.main-text {
+    color: #DC780B;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.2em;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.food_text {
+    color: #150C01;
+    font-family: Philosopher;
+    font-size: 31.25px;
+    font-weight: 700;
+    line-height: 40.625px;
+    margin-bottom: 30px;
+}
+
+.main_text {
+    color: #150C01;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-bottom: 29px;
+}
+.footer_father{
+    width: 1120px;
+    height: 1120px;
+    text-align: center;
+    margin: auto;
+}
+
+.footer_text1 {
+    color: #DC780B;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 3.2px;
+    text-transform: uppercase;
+}
+
+.footer_text2 {
+    color: #150C01;
+    text-align: center;
+    font-family: Philosopher;
+    font-size: 31.25px;
+    font-weight: 700;
+}
+
+.footer_text3 {
+    color: gray;
+    width: 740px;
+    height: 50px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: auto;
+    padding-top: 25px;
 }
